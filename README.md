@@ -70,6 +70,3 @@ The following scenarios are implemented using **API chaining**:
 
 ## Notes
 - This assignment focuses on **API chaining**, not full-scale performance testing
-- Excel documentation is not included as per assignment instructions
-
-
