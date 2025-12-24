@@ -65,9 +65,11 @@ The following scenarios are implemented using **API chaining**:
 6. Open `dashboard/index.html` in browser
 
 ## Test Results
-
+<img width="1911" height="971" alt="apiChainingJMeter1" src="https://github.com/user-attachments/assets/86df2e13-fdba-412f-84fa-c29d3e021225" />
+<img width="1668" height="767" alt="apiChainingJMeter2" src="https://github.com/user-attachments/assets/54d964de-5395-403b-8a3f-fa9c1b419a08" />
 
 ## Notes
 - This assignment focuses on **API chaining**, not full-scale performance testing
 - Excel documentation is not included as per assignment instructions
+
 
